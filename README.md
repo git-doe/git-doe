@@ -30,8 +30,6 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding GIF" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" />
-
 * 🔭 **Currently working on:** My Crochet Android App
 * ⚡ **Fun fact:** Im learning 2 languages! (CHINESE (s) and Brazilian Port!)
 
