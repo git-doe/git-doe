@@ -33,8 +33,6 @@
 * 🔭 **Currently working on:** My Crochet Android App
 * ⚡ **Fun fact:** Im learning 2 languages! (CHINESE (s) and Brazilian Port!)
 
-<br/>
-
 ---
 
 ## 🛠️ Tech Stack & Skills
